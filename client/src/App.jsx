@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-    <p>New app to learn django also apis</p>
+    <p>New app to learn django</p>
     <button onClick={handleClick}> count {count} </button>
     </div>
   )
